@@ -1,1 +1,2 @@
-console.log("Hello World! - Mr. CarrierBot")
+'use strict'
+const BootBot = require('bootbot');

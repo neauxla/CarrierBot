@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/neauxla/CarrierBot/issues"
   },
-  "homepage": "https://github.com/neauxla/CarrierBot#readme"
+  "homepage": "https://github.com/neauxla/CarrierBot#readme",
+  "dependencies": {
+    "bootbot": "^1.0.14"
+  }
 }
